@@ -1,0 +1,8 @@
+.streamlit/
+dataenv/
+
+.vscode/
+
+__pycache__/
+*.py[cod]
+*$py.class
